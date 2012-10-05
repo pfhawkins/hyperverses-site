@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'Novecento';
+  src: url('../fonts/Novecentowide-DemiBold-webfont.ttf') format('truetype'); font-weight: normal; font-style: normal;
+}
+@font-face {
+  font-family: 'TheanoOldStyle-Regular';
+  src: url('../fonts/TheanoOldStyle-Regular.eot?#iefix') format('embedded-opentype'), 
+       url('../fonts/TheanoOldStyle-Regular.woff') format('woff'), 
+       url('../fonts/TheanoOldStyle-Regular.ttf')  format('truetype'),
+       url('../fonts/TheanoOldStyle-Regular.svg#svgFontName') format('svg');
+}                                                                                                                                                     
+h1, h2, h3 { 
+  font-family: 'Novecento', Futura, sans-serif;
+  color: #ff0000;
+  text-align: right;
+}
+h1 { font-size: 72px; text-align: left;}
+h2 { font-size: 36px; }
+h3 { font-size: 28px; }
+p { 
+  font-size: 24px;
+  font-family: 'TheanoOldStyle-Regular', Georgia, serif;
+  line-height: 36px;
+}
+a {
+  font-size: 24px;
+  font-family: Theano Old Style, Futura;
+  color: #000000;
+  text-decoration: none;
+}
+a:link {
+  background-color: #ffff66;
+}
+a:hover {
+  background-color: #ff66ff;
+}
+a:visited {
+  background-color: #66ffff;
+}
+
