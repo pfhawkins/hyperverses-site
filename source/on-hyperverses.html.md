@@ -22,7 +22,7 @@ that muses on what prevented hypertext from ushering in a new era of
 literature. Then I discovered Steve Klabnik's [Hypermedia API Reading
 List](http://blog.steveklabnik.com/posts/2012-02-27-hypermedia-api-reading-list).
 Which led me down enough search trails that at some point I realized
-I'd developed a minor obsessions. And how better to celebrate such an
+I'd developed a minor obsession. And how better to celebrate such an
 obsession than by blathering about it on the internet?
 
 I've been keeping up with hypermedia developments via a twitter
