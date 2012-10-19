@@ -54,7 +54,7 @@ set :js_dir, 'javascripts'
 set :images_dir, 'images'
 
 # Index Page Of The Day
-set :index_file, "on-hyperverses.html"
+set :index_file, "what-nodes-may-be.html"
 
 # Build-specific configuration
 configure :build do
