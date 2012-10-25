@@ -1,6 +1,6 @@
 ---
 title: What Nodes May Be
-date: 
+date: 2012-10-19
 tags: hypertext, node, lexia
 ---
 
