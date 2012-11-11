@@ -79,6 +79,8 @@ configure :build do
   # set :http_path, "/Content/images/"
 end
 
+page "/sitemap.xml", :layout => false
+
 activate :deploy do |deploy|
   deploy.method = :rsync
   deploy.user = "hyperver"
