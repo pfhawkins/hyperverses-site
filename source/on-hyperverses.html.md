@@ -2,6 +2,7 @@
 title: On Hyperverses
 date: 2012-10-05
 tags: hypertext, meta
+description: IN WHICH is set forth the Purpose of the Endeavor.
 ---
 
 # On Hyperverses

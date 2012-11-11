@@ -2,6 +2,7 @@
 title: What Nodes May Be
 date: 2012-10-19
 tags: hypertext, node, lexia
+description: IN WHICH an Attempt is made to define "Node".
 ---
 
 # What Nodes May Be
