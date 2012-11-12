@@ -1,0 +1,13 @@
+---
+title: List of Lexia
+tags: meta
+date: 2012-11-11
+description: IN WHICH Every Single Page on this site is listed.
+---
+
+<h1>List of Lexia</h1>
+  <% pages = sitemap.resources.find_all{|p| p.source_file.match(/\.html/) } %>
+  <ul>
+  <% pages.each do |p| %>
+    <a href="http://hypervers.es/<%=p.destination_path.gsub('/index.html','')%>"><h2 class="listy"><%=p.data["title"] %></h2></a><p><%=p.data["description"] %></p>
+  <% end %>
