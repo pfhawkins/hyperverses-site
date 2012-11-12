@@ -15,6 +15,9 @@ require 'susy'
 # Page options, layouts, aliases and proxies
 ###
 
+page "/sitemap.xml", :layout => false
+page "/biglist.html", :layout => "biglist"
+
 # Per-page layout changes:
 #
 # With no layout
