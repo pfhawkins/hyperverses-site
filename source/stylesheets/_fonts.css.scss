@@ -66,3 +66,19 @@ blockquote {
   border-left: 6px solid #ff99ff;
   padding-left: 15px;
 }
+sup, sub {
+  height: 0;
+  vertical-align: baseline;
+  position: relative;
+  font-size: 0.6em;             
+}
+
+sup {
+  top: -0.8em;
+}
+sup { a {
+  font-size: 16px;
+}}
+sub {
+  top: .5ex;
+}
