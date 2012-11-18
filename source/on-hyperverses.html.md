@@ -5,7 +5,6 @@ tags: hypertext, meta
 description: IN WHICH is set forth the Purpose of the Endeavor.
 ---
 
-# On Hyperverses
 
 Hyperverses is a place to explore the meeting of technology and literature. It has a heavy focus on hypermedia, hypertext, and electronic literature.
 

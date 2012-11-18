@@ -5,8 +5,6 @@ tags: colophon, meta
 description: '"Some Web pages also have colophons, which frequently contain (X)HTML, CSS, or usability standards compliance information and links to Web site validation tests."'
 ---
 
-# Colophon
-
 Hyperverses is a web site. Each page is compiled as [HTML](http://www.w3.org/html/) from [markdown](http://daringfireball.net/projects/markdown/) formatted plain text. The pages are served by an [Apache](http://httpd.apache.org) web server. 
 
 The bit that does the marshalling from markdown bits to a full-fledge HTML site is [middleman](http://middlemanapp.com). Middleman was chosen because it is not blog software. [I](http://pfhawkins.com) aim to build a website, not a blog. A blog has particular trappings such as calendar pages, a long scroll of a post-filled index page, categories. Sometimes comments. Hyperverses is a series of linked pages. The index is simply the most recently composed page. In this way the most fresh utterance becomes the primary entry point into the site.

@@ -5,8 +5,6 @@ tags: hypertext, node, lexia
 description: IN WHICH an Attempt is made to define "Node".
 ---
 
-# What Nodes May Be
-
 A node is something that nobody can agree on what it is, apart from the notion that it is the fundamental unit of hypertext.
 
 Hendrik Christando defines "node" in a [class assignment](http://www.cyberartsweb.org/cpace/ht/christanto/el_of_htext.htm) for [George Landow](http://www.victorianweb.org/cv/landow_ov.html) as "…a collection of data organized around a specific topic."
