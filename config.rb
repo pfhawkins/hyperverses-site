@@ -57,7 +57,7 @@ set :js_dir, 'javascripts'
 set :images_dir, 'images'
 
 # Index Page Of The Day
-set :index_file, "what-nodes-may-be.html"
+set :index_file, "colophon.html"
 
 # Build-specific configuration
 configure :build do
