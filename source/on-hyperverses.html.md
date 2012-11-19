@@ -14,7 +14,7 @@ click on may not do what you expect. If you feel ill at ease about a
 part of this site, contact the webmaster at <webmaster@hypervers.es>,
 who will explain why things broke down, and possibly fix them.
 
-## Why Build Hyperverses?
+## Why Build Hyperverses? {#whybuild}
 
 Two things brought these topics onto my radar. First, I came across
 [an article](http://www.salon.com/2011/10/04/return_of_hypertext/)

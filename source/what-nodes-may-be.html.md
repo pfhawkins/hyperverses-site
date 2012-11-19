@@ -21,7 +21,7 @@ Then again, the second part of the definition rings more true. Nodes are linked 
 
 [^digression]: As helpful as this distinction is, it still feels squishy. Anything can be a resource, but we can only link to representations of it? What does this added layer of complexity gain us? 
 
-## The Official Hyperverses Definition
+## The Official Hyperverses Definition {#nodedef}
 
 **A Node is that which one receives after clicking a link.**
 
