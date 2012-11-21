@@ -57,7 +57,7 @@ set :js_dir, 'javascripts'
 set :images_dir, 'images'
 
 # Index Page Of The Day
-set :index_file, "carr-tweetform-thesis-1.html"
+set :index_file, "carr-tweetform-thesis-2.html"
 
 # Build-specific configuration
 configure :build do
