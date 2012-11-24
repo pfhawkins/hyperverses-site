@@ -58,6 +58,9 @@ p.description {
   font-style: italic;
   color: #003366;
 }
+p.description + p {
+  text-indent: 0em; 
+}
 div.footnotes {
   p { font-size: 20px; }
   a { font-size: 20px; }
