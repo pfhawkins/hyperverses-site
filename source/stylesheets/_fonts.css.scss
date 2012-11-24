@@ -13,6 +13,7 @@ h1, h2, h3 {
   font-family: 'Novecento', Futura, sans-serif;
   color: #ff5500;
   text-align: right;
+  text-rendering: optimizeLegibility;
 }
 h1 { font-size: 72px; text-align: left;}
 h2 { font-size: 36px; }
