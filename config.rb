@@ -57,7 +57,7 @@ set :js_dir, 'javascripts'
 set :images_dir, 'images'
 
 # Index Page Of The Day
-set :index_file, "carr-tweetform-thesis-3.html"
+set :index_file, "hv-linearity.html"
 
 # Build-specific configuration
 configure :build do
@@ -75,8 +75,8 @@ configure :build do
 
   # Compress PNGs after build
   # First: gem install middleman-smusher
-  # require "middleman-smusher"
-  activate :smusher
+  #require "middleman-smusher"
+  #activate :smusher
 
   # Or use a different image path
   # set :http_path, "/Content/images/"
