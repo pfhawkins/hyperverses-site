@@ -21,5 +21,10 @@ body {
 
 footer {
   text-align: center;
-  background-color: #e0dcd9;
+//  background-color: #e0dcd9;
+  border-size: 1px;
+  border-left: solid;
+  border-right: solid;
+  border-top: solid;
+  border-color: #cccccc;
 }
