@@ -57,7 +57,7 @@ set :js_dir, 'javascripts'
 set :images_dir, 'images'
 
 # Index Page Of The Day
-set :index_file, "happy-medium-a.html"
+set :index_file, "son-of-footnote.html"
 
 # Build-specific configuration
 configure :build do
