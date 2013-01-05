@@ -9,6 +9,13 @@
        url('../fonts/TheanoOldStyle-Regular/TheanoOldStyle-Regular.ttf')  format('truetype'),
        url('../fonts/TheanoOldStyle-Regular/TheanoOldStyle-Regular.svg#svgFontName') format('svg');
 }                                                                                                                                                     
+@font-face {
+  font-family: 'LMR';
+  src: url('../fonts/lmroman10-italic.eot') format('embedded-opentype'),
+       url('../fonts/lmroman10-italic.woff') format('woff'),
+       url('../fonts/lmroman10-italic.ttf') format('truetype'),
+       url('../fonts/lmroman10-italic.svg') format('svg');
+}
 h1, h2, h3 { 
   font-family: 'Novecento', Futura, sans-serif;
   color: #ff5500;
@@ -20,13 +27,13 @@ h1 { font-size: 72px; text-align: left;}
 h2 { font-size: 36px; line-height: 1; margin-top: 1em; margin-bottom: 1em; }
 h3 { font-size: 28px; }
 h1.footerbar {
+  font-family: 'LMR';
   font-size: 64px;
-  text-align: right;
+  text-align: center;
   display: block;
   margin-bottom: 0.4em;
   margin-right: 0px;
   color: #000000;
-  text-shadow: 0em 0.05em 0.05em #ff66ff;
 }
 h2.listy {
   text-align: left;
