@@ -16,8 +16,15 @@
        url('../fonts/lmroman10-italic.ttf') format('truetype'),
        url('../fonts/lmroman10-italic.svg') format('svg');
 }
+@font-face {
+  font-family: 'Market Deco';
+  src: url('../fonts/Market_Deco.eot') format('embedded-opentype'),
+       url('../fonts/Market_Deco.woff') format('woff'),
+       url('../fonts/Market_Deco.ttf') format('truetype'),
+       url('../fonts/Market_Deco.svg') format('svg');
+}
 h1, h2, h3 { 
-  font-family: 'Novecento', Futura, sans-serif;
+  font-family: 'Market Deco', 'Novecento', Futura, sans-serif;
   color: #ff5500;
   text-align: right;
   text-rendering: optimizeLegibility;
