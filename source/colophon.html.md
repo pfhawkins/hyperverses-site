@@ -15,7 +15,7 @@ One day, if I am a good boy and can coax the muses into imbuing me with good cod
 
 ## Typography {#typography}
 
-Currently there are no images on Hyperverses. This may change. I enjoy the written word more than video and the visual arts. I am not insensible to graphic design, however. I spent longer than I ought to have picking out fonts and tweaking the spacing and column width, among other things. The titles are set in Novecento, red. The body text is set in Theano Old Style. Both are generously licensed and freely available online.
+Currently there are no images on Hyperverses. This may change. I enjoy the written word more than video and the visual arts. I am not insensible to graphic design, however. I spent longer than I ought to have picking out fonts and tweaking the spacing and column width, among other things. The site title is set in LMR. The titles are set in Market Deco, red. The body text is set in Theano Old Style. All are generously licensed and freely available online.
 
 Links on Hyperverses hopefully flatter traditional paper highlighters with imitation. Unvisited links have a yellow background, and visited a blue. Hyperverses is also concerned with analog methods of producing and consuming the written word, so I felt this slight homage was warranted. It is my only nod to skeumorphism.
 
