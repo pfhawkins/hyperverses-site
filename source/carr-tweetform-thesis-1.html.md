@@ -1,6 +1,7 @@
 ---
 title: 'Carr Thesis 1: Medium Complexity'
 date: 2012-11-20
+tags: ergodic, nickcarr
 description: Nick Carr has a thesis on the complexity of mediums. I have an opinion about that thesis.
 ---
 
