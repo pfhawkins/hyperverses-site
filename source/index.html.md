@@ -30,8 +30,8 @@ world on small wires. And it seemed as if the stories had shattered along the
 journey. But these ergodics had accounted for this from the beginning, and had
 foretold of this from tomes of yore.*
 
-*And they sang of [hypertext](http://hypervers.es/hypertext.html); and they sang
-of [narrative](http://hypervers.es/narrative.html); and they sang of
-[complexity](http://hypervers.es/ergodic.html).*
+*And they sang of [hypertext](/hypertext.html); and they sang
+of [narrative](/narrative.html); and they sang of
+[complexity](/ergodic.html).*
 
-*This is an account of the [hyperverses](http://hypervers.es/on-hyperverses.html) they left in their wake.*
+*This is an account of the [hyperverses](/on-hyperverses.html) they left in their wake.*

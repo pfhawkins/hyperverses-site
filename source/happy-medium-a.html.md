@@ -13,5 +13,5 @@ For the horizon of youth is tired, dusty.
 A new horizon must be sought  
 In the scrambled assemblages'  
 Deforestation of [ancestral
-structures](http://hypervers.es/happy-medium-b.html);  
+structures](/happy-medium-b.html);  
 Vomiting meanings, knifing narratives. 

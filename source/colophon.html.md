@@ -23,7 +23,7 @@ Links on Hyperverses hopefully flatter traditional paper highlighters with imita
 
 While the site is not a blog, it ought to have an [RSS feed](http://www.whatisrss.com). It does not. It will.
 
-The site has footnotes. It does not yet have a navigational scheme of any real utility. [A list of every page](http://hypervers.es/biglist.html) is not going to cut it.
+The site has footnotes. It does not yet have a navigational scheme of any real utility. [A list of every page](/biglist.html) is not going to cut it.
 
 While each update to the site is captured in a [git repository](https://github.com/pfhawkins/hyperverses-site), I do not yet have navigable versioning set up for individual lexia. Then again, I haven't felt the need to revise any published lexia yet either.
 

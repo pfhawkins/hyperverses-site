@@ -40,7 +40,7 @@ greater for a reader than a far more familiar linear narrative, is far less
 than the difficulty encountered in original research.[^1]
 
 While this is certainly not the only way that
-[ergodicity](http://hypervers.es/ergodic.html) might facilitate
+[ergodicity](/ergodic.html) might facilitate
 narrative immersion, it is a compelling one. I am surprised I have not yet seen
 this application of ergodicity outside of this novel.
 
