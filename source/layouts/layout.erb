@@ -13,9 +13,11 @@
   
   <body class="<%= page_classes %>">
   <!--    <a href="/"><h1 class="header">HYPERVERSES</h1></a> -->
+    <article>
     <h1><%= data.page.title %></h1>
     <p class="description"><%= data.page.description %></p>
     <%= yield %>
+  </article>
   <%= partial "footer" %>
   </body>
 </html>
