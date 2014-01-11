@@ -2,7 +2,7 @@
 title: Colophon
 date: 2012-11-14
 tags: colophon, meta
-description: '"Some Web pages also have colophons, which frequently contain (X)HTML, CSS, or usability standards compliance information and links to Web site validation tests."'
+description: '“Some Web pages also have colophons, which frequently contain (X)HTML, CSS, or usability standards compliance information and links to Web site validation tests.”'
 ---
 
 Hyperverses is a web site. Each page is compiled as [HTML](http://www.w3.org/html/) from [markdown](http://daringfireball.net/projects/markdown/) formatted plain text. The pages are served by an [Apache](http://httpd.apache.org) web server. 

@@ -7,21 +7,21 @@ description:
 
 As is usual in these cases, a soothsayer was consulted. 
 
-"Whaddya want?"
+“Whaddya want?”
 
-"I find sitting and reading something through to the end to be a far
-heavier burden than in my youth. What must I do to regain this faculty?"
+“I find sitting and reading something through to the end to be a far
+heavier burden than in my youth. What must I do to regain this faculty?”
 
-"I am a soothsayer, not a healer."
+“I am a soothsayer, not a healer.”
 
-"But surely being a soothsayer, wise in the world's ways and long in years,
-you have seen the cause of this before."
+“But surely being a soothsayer, wise in the world's ways and long in years,
+you have seen the cause of this before.”
 
-"It is ever the same. The problem is you."
+“It is ever the same. The problem is you.”
 
-"Look, I paid you five *drachma*, and in return you tell me something I already know?"
+“Look, I paid you five *drachma*, and in return you tell me something I already know?”
 
-"Fair enough," said the soothsayer. He closed his eyes, threw a pinch of
+“Fair enough,” said the soothsayer. He closed his eyes, threw a pinch of
 incense into the flaming bowl, and began to intone:
 
 *Lo, there was a time upon the earth when a group of the literate decided to harness

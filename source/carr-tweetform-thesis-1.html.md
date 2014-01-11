@@ -11,11 +11,11 @@ Nick Carr recently penned [a series of twitter-sized theses](http://www.roughtyp
 
 Hrm.
 
-I might rephrase it as "The more complex the medium is, the less eloquent the message is that the medium conveys."
+I might rephrase it as “The more complex the medium is, the less eloquent the message is that the medium conveys.”
 
 Most of the definitions of eloquence I've dug up refer to it as powerful or persuasive speaking or writing. In its adjective form, it is closer to clarity than anything else. So, the more complex the medium, the less forceful, persuasive, or clear the message is that the medium is trying to convey.
 
-Of course, Carr is referencing Marshal McLuhan's quote "the medium is the message". It is widely accepted wisdom that the medium fundamentally affects the message in ways that might not be readily apparent. Carr here is asserting that the complexity of a medium introduces clutter that dilutes the content.
+Of course, Carr is referencing Marshal McLuhan's quote “the medium is the message”. It is widely accepted wisdom that the medium fundamentally affects the message in ways that might not be readily apparent. Carr here is asserting that the complexity of a medium introduces clutter that dilutes the content.
 
 ## Carr Comments, Clarifies ## {#clarification}
 
